@@ -1,7 +1,26 @@
 {
+  "name": "react2026",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/syed-hashmi/React2026#readme",
+  "bugs": {
+    "url": "https://github.com/syed-hashmi/React2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syed-hashmi/React2026.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "parcel": "^2.16.4",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
-  }
+  },
+  "devDependencies": {}
 }
